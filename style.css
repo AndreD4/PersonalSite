@@ -1,2 +1,14 @@
+body {
+  margin: 0;
+  text-align: center;
+}
 
+h1 {
+  font-size: 5.625rem;
+  margin: 300px auto 0 auto;
+}
 
+.card{
+  padding-top: 20%;
+  height: 500px;
+}
