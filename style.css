@@ -57,4 +57,20 @@ h1{
 .tech{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  grid-row: repeat(1, 1fr);
+}
+
+.bottom-container{
+  background-color: #D74B76;
+  padding: 100px 0 50px ;
+}
+
+a {
+  color: #FFAF45;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.bottom-container p{
+  color:#673F69
 }
