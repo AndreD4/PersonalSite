@@ -3,18 +3,14 @@ body {
   text-align: center;
 }
 
-h1{
+.top-container h1{
   display: flex;
   justify-content: center;
   color: #FFAF45;
-  font-size: 12rem;
+  font-size: 8rem;
   font-family: "Asar", serif;   
   font-style: normal;
   background-color: #673F69;
-  margin-left: 20%;
-  margin-right: 20%;
-  padding:0;
-  
 }
 
 
@@ -82,3 +78,9 @@ a {
   color:#673F69
 }
 
+@media (min-width: 844px) and (max-width: 390x){
+ h1{
+   font-size: 1rem;
+ } 
+
+}
