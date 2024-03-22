@@ -1,2 +1,1 @@
-Simple site using Only Css and HTML
-
+# SIMPLE SITE USING ONLY HTML AND CSS
