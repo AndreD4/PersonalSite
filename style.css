@@ -1,14 +1,33 @@
 body {
   margin: 0;
   text-align: center;
+  
+
 }
 
-h1 {
-  font-size: 5.625rem;
-  margin: 300px auto 0 auto;
+.top-container h1 {
+  color: #FFAF45;
+  font-size: 12rem;
+  font-family: "Asar", serif;   
+  font-style: normal;
+  background-color: #673F69;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding:0;
+  
 }
 
-.card{
-  padding-top: 20%;
-  height: 500px;
+
+.top-container{
+  padding-top: 100px;
+  height: 100vh;
+  width: 100%;
+  background-image: url(./img/japan-night.jpg);
+  background-size: cover;
+  text-align: center;
+  color: azure;
 }
+
+
+
+
