@@ -1,11 +1,9 @@
 body {
-  margin: 0;
+  margin: 0; 
   text-align: center;
-  
-
 }
 
-.top-container h1 {
+h1{
   color: #FFAF45;
   font-size: 12rem;
   font-family: "Asar", serif;   
@@ -23,11 +21,29 @@ body {
   height: 100vh;
   width: 100%;
   background-image: url(./img/japan-night.jpg);
-  background-size: cover;
+  background-size: contain;
   text-align: center;
   color: azure;
 }
 
+.middle-container{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #673F69;
+  height: 100hv; 
+}
 
+.profile-pic {
+  height: 300px;
+  border-radius: 50%;
+  border: 10px solid #FFAF45;
+}
 
+.middle-text{
+  font-size: 2rem;
+}
 
+.middle-container p{
+  margin-left: 400px;
+  margin-right: 400px;
+}
