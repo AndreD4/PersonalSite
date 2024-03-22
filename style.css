@@ -39,11 +39,22 @@ h1{
   border: 10px solid #FFAF45;
 }
 
-.middle-text{
+.middle-intro{
+  color: #FFAF45;
   font-size: 2rem;
 }
 
 .middle-container p{
   margin-left: 400px;
   margin-right: 400px;
+}
+
+.skills{
+  color: #FFAF45;
+  font-size: 5rem;
+}
+
+.tech{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 }
