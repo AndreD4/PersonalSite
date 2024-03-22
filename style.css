@@ -62,6 +62,11 @@ h1{
   grid-row: repeat(1, 1fr);
 }
 
+.tech img{
+  height: 200px;
+  width: 200px;
+}
+
 .bottom-container{
   background-color: #D74B76;
   padding: 100px 0 50px ;
@@ -76,3 +81,4 @@ a {
 .bottom-container p{
   color:#673F69
 }
+
