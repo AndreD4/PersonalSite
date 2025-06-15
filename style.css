@@ -33,7 +33,7 @@ body {
 
 .profile-pic {
   height: 300px;
-  border-radius: 20%;
+  border-radius: 0%;
   border: 10px solid #FFAF45;
 }
 
